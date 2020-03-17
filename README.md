@@ -14,6 +14,7 @@
  * The Mirage2000-5 developper ,
  * A lot of fg-Aircrafts developpers ,
  So Greetings and THANKS to all of them .
+ It will be eventually OPRF compatible
  
 	The current aircraft package is at version 0.3 (as of late January 2017), so this is an "EARLY DEVELOPPEMENT" version , 
     just published for Fun, Tests, and may be some contributions .
